@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Crypt_lab1" target="1.5" />
+      <module name="Crypt_lab1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
